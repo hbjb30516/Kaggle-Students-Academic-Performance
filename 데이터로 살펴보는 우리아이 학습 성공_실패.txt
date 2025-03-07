@@ -1,6 +1,7 @@
 <xAPI-Edu-Data 데이터셋을 사용>
 - xAPI-Edu-Data.csv
 - 각 파일의 컬럼은 아래와 같습니다.
+
 gender: 학생의 성별 (M: 남성, F: 여성)
 NationaliTy: 학생의 국적
 PlaceofBirth: 학생이 태어난 국가
